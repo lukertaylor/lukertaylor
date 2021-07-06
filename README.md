@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lukertaylor
+- 👀 I’m interested in Flutter development
+- 🌱 I’m currently learning bloc and good application architecture
+- 💞️ I’m looking to collaborate on Flutter projects
+- 📫 How to reach me www.linkedin.com/in/luketaylor
