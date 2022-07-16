@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lukertaylor
-- 👀 I’m interested in Flutter development
-- 🌱 I’m currently learning bloc and good application architecture
+- 👋 Hi, I’m Luke Taylor
+- 👀 I’m a Flutter developer, developing cross-platform (Android + iOS) mobile apps
+- 🌱 I’m currently learning Cloud Functions and push notifications
 - 💞️ I’m looking to collaborate on Flutter projects
 - 📫 How to reach me www.linkedin.com/in/luketaylor
